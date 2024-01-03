@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Python Libraries
 - 👨‍💻 All of my projects are available at https://github.com/Delmat237/
-- 📫 How to reach me azangueleonel9@gmail.com s
+- 📫 How to reach me azangueleonel9@gmail.com 
 
 ⚡ Fun fact I'm a passionate learner
 #
