@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,12,13,16,20&height=300&section=header&text=🤖%20Leonel%20Azangue%20(Delmat237)%20🤖&fontSize=90&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,12,13,16,20&height=300&section=header&text=🤖%20Delmat237%20🤖&fontSize=90&animation=fadeIn)
 
 </div>
 
