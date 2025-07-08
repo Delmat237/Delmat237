@@ -22,7 +22,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=F731CB&multiline=true&repeat=false&width=435&lines=Construire+des+solutions+intelligentes;S%27inspirer,+innover,+impacter;Code+propre,+sécurité+robuste;Transformer+les+idées+en+réalité;IA+pour+un+monde+meilleur" alt="Typing SVG" /></a>
 
-Je suis **Leonel Azangue**, un **développeur full-stack**, **ingénieur en IA/ML**, et **spécialiste en cybersécurité** basé à Yaoundé, Cameroun. Passionné par la création de solutions technologiques innovantes, je combine des interfaces utilisateur modernes avec des backends sécurisés et des algorithmes d'intelligence artificielle pour résoudre des problèmes du monde réel. Mes projets, comme **DB Jewelry**, **EduSmart**, et **VulnScan Pro**, reflètent mon engagement envers l'excellence technique et l'impact social.
+Je suis **Leonel Azangue**, un **développeur full-stack**, **ingénieur en IA/ML**, et **j'apprend la cybersécurité** basé à Yaoundé, Cameroun. Passionné par la création de solutions technologiques innovantes, je combine des interfaces utilisateur modernes avec des backends sécurisés et des algorithmes d'intelligence artificielle pour résoudre des problèmes du monde réel. Mes projets, comme **DB Jewelry**, **EduSmart**, et **VulnScan Pro**, reflètent mon engagement envers l'excellence technique et l'impact social.
 
 <table>
 <tr>
@@ -33,7 +33,7 @@ class TechInnovator:
     def __init__(self):
         self.identity = {
             "name": "Leonel Azangue",
-            "title": "Full-Stack Developer | AI/ML Engineer | Cybersecurity Specialist",
+            "title": "Full-Stack Developer | AI/ML Engineer | Cybersecurity ",
             "location": "🌍 Yaoundé, Cameroon",
             "mission": "Building intelligent, secure, and impactful solutions"
         }
@@ -74,43 +74,6 @@ class TechInnovator:
 </tr>
 </table>
 
-## 📋 Table des Matières
-- [À Propos de Moi](#-à-propos-de-moi)
-- [Compétences Techniques](#-compétences-techniques)
-- [Projets Phares](#-projets-phares)
-- [Statistiques GitHub](#-statistiques-github)
-- [Contactez-Moi](#-contactez-moi)
-- [Outils & Technologies](#-outils--technologies)
-- [Citation du Jour](#-citation-du-jour)
-- [Contributions](#-contributions)
-
-## 💻 Compétences Techniques
-
-### **Langages Principaux**
-```
-Java • Python • JavaScript • C/C++
-```
-
-### **Développement Frontend**
-- **React 18+** : Interfaces dynamiques et responsives
-- **React Native** : Applications mobiles multiplateformes
-- **Next.js** : Rendu côté serveur et performances optimisées
-- **Tailwind CSS / Material-UI** : Design moderne et intuitif
-
-### **Développement Backend**
-- **Spring Boot** : Applications Java d'entreprise
-- **Django / FastAPI** : Frameworks Python pour API RESTful
-- **MySQL / PostgreSQL / Redis** : Gestion de bases de données et cache
-
-### **IA & Machine Learning**
-- **TensorFlow / PyTorch** : Modèles de deep learning
-- **NLP & Computer Vision** : Traitement du langage et vision par IA
-- **Data Analytics** : Pandas, Scikit-learn pour l'analyse de données
-
-### **Cybersécurité**
-- **Outils** : Nmap, OpenVAS, SQLMap, Nikto
-- **Pratiques** : Évaluation des vulnérabilités, codage sécurisé
-- **Conformité** : ISO 27001, NIST, GDPR
 
 ## 🚀 Projets Phares
 
