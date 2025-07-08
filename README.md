@@ -160,6 +160,7 @@ class TechInnovator:
   </a>
 </div>
 
-<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,12,13,16,20&height=170&section=footer)
-</div>
