@@ -78,13 +78,13 @@ class TechInnovator:
 ## 🚀 Projets Phares
 
 - **💎 DB Jewelry** : Boutique en ligne élégante pour bijoux de luxe avec navigation par catégories, panier dynamique, et design responsive.  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=db-jewelry-frontend&theme=great-gatsby)](https://github.com/Delmat237/db-jewelry-frontend)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=DB-Jewelry&theme=great-gatsby)](https://github.com/Delmat237/DB-Jewelry)
 
 - **🎓 EduSmart** : Plateforme d'e-learning alimentée par l'IA avec apprentissage adaptatif, support multilingue, et certifications blockchain.  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=edusmart-platform&theme=great-gatsby)](https://github.com/Delmat237/edusmart-platform)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=EduSmart---AI-Powered-E-Learning-Platform&theme=great-gatsby)](https://github.com/Delmat237/EduSmart---AI-Powered-E-Learning-Platform)
 
 - **🔍 VulnScan Pro** : Outil de sécurité automatisé pour l'évaluation des vulnérabilités avec intégration CVE et rapports conformes.  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=Vulnerability-Assessment-Platform&theme=great-gatsby)]([https://github.com/Delmat237/vulnscan-pro](https://github.com/Delmat237/VulnScan-Pro---Vulnerability-Assessment-Platform))
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=VulnScan-Pro---Vulnerability-Assessment-Platform&theme=great-gatsby)]([https://github.com/Delmat237/VulnScan-Pro---Vulnerability-Assessment-Platform)
 
 ## 📊 Statistiques GitHub
 
@@ -149,14 +149,14 @@ class TechInnovator:
 ## 🎬 Contributions
 
 <div align="center">
-  <a href="https://github.com/Delmat237/db-jewelry-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=db-jewelry-frontend&theme=great-gatsby" alt="DB Jewelry"/>
+  <a href="https://github.com/Delmat237/DB-Jewelry">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=DB-Jewelry&theme=great-gatsby" alt="DB Jewelry"/>
   </a>
-  <a href="https://github.com/Delmat237/edusmart-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=edusmart-platform&theme=great-gatsby" alt="EduSmart"/>
+  <a href="https://github.com/Delmat237/EduSmart---AI-Powered-E-Learning-Platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=EduSmart---AI-Powered-E-Learning-Platform&theme=great-gatsby" alt="EduSmart"/>
   </a>
-  <a href="https://github.com/Delmat237/vulnscan-pro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=vulnscan-pro&theme=great-gatsby" alt="VulnScan Pro"/>
+  <a href="https://github.com/Delmat237/VulnScan-Pro---Vulnerability-Assessment-Platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=VulnScan-Pro---Vulnerability-Assessment-Platform&theme=great-gatsby" alt="VulnScan Pro"/>
   </a>
 </div>
 
