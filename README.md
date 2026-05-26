@@ -152,20 +152,32 @@ Passionné par la création de solutions technologiques innovantes, je combine d
 ## 🤝 Contributions
 
 <div align="center">
-
-<a href="https://github.com/Delmat237/DATAORG_FINANCIAL-HEALTH-PREDICTION">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=DATAORG_FINANCIAL-HEALTH-PREDICTION&theme=great-gatsby" alt="Financial Health Prediction"/>
-</a>
-<a href="https://github.com/Delmat237/ALD-Talker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=ALD-Talker&theme=great-gatsby" alt="ALD-Talker"/>
-</a>
-<a href="https://github.com/Delmat237/CHAT-OFFLINE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=CHAT-OFFLINE&theme=great-gatsby" alt="CHAT-OFFLINE"/>
-</a>
-<a href="https://github.com/Delmat237/Cursor-Cameroun">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=Cursor-Cameroun&theme=great-gatsby" alt="Cursor Cameroun"/>
-</a>
-
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Delmat237/DATAORG_FINANCIAL-HEALTH-PREDICTION">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=DATAORG_FINANCIAL-HEALTH-PREDICTION&theme=great-gatsby" alt="Financial Health Prediction"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Delmat237/ALD-Talker">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=ALD-Talker&theme=great-gatsby" alt="ALD-Talker"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Delmat237/CHAT-OFFLINE">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=CHAT-OFFLINE&theme=great-gatsby" alt="CHAT-OFFLINE"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Delmat237/Cursor-Cameroun">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=Cursor-Cameroun&theme=great-gatsby" alt="Cursor Cameroun"/>
+      </a>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
@@ -192,7 +204,7 @@ Passionné par la création de solutions technologiques innovantes, je combine d
   <a href="https://github.com/Delmat237">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://wa.me/+237694773772">
+  <a href="https://wa.me/+237657450314">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/leonel-azangue">
