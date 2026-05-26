@@ -1,0 +1,139 @@
+<svg width="740" height="1092" viewBox="0 0 740 1092" xmlns="http://www.w3.org/2000/svg" font-family="'Fira Code', 'Courier New', monospace" font-size="13.5">
+  <defs>
+    <filter id="sh">
+      <feDropShadow dx="0" dy="10" stdDeviation="20" flood-color="#000" flood-opacity="0.55"/>
+    </filter>
+  </defs>
+
+  <rect width="740" height="1092" rx="13" fill="#1c1c1e" filter="url(#sh)"/>
+
+  <!-- title bar -->
+  <rect width="740" height="44" rx="13" fill="#2c2c2e"/>
+  <rect y="22" width="740" height="22" fill="#2c2c2e"/>
+  <circle cx="24" cy="22" r="7" fill="#ff5f56"/>
+  <circle cx="46" cy="22" r="7" fill="#febc2d"/>
+  <circle cx="68" cy="22" r="7" fill="#26c940"/>
+  <text x="100" y="27" font-size="12.5" fill="#8e8e93" letter-spacing="0.3">leonel.py — python</text>
+  <line x1="0" y1="44" x2="740" y2="44" stroke="#3a3a3c" stroke-width="1"/>
+
+  <!-- row height 26px, y_start=76 -->
+
+  <text x="20" y="76"  fill="#555555">01</text>
+  <text x="64" y="76"><tspan fill="#cf8fff">class </tspan><tspan fill="#5ac8ff">TechInnovator</tspan><tspan fill="#e8e8e8">:</tspan></text>
+
+  <text x="20" y="102" fill="#555555">02</text>
+  <text x="64" y="102"><tspan fill="#e8e8e8">    </tspan><tspan fill="#cf8fff">def </tspan><tspan fill="#5ac8ff">__init__</tspan><tspan fill="#e8e8e8">(</tspan><tspan fill="#ff6b6b">self</tspan><tspan fill="#e8e8e8">):</tspan></text>
+
+  <text x="20" y="128" fill="#555555">03</text>
+  <text x="64" y="128"><tspan fill="#e8e8e8">        </tspan><tspan fill="#ff6b6b">self</tspan><tspan fill="#e8e8e8">.</tspan><tspan fill="#5ac8ff">identity</tspan><tspan fill="#e8e8e8"> = {</tspan></text>
+
+  <text x="20" y="154" fill="#555555">04</text>
+  <text x="64" y="154"><tspan fill="#ffa657">            "name"</tspan><tspan fill="#e8e8e8">    : </tspan><tspan fill="#ffa657">"Leonel Azangue"</tspan><tspan fill="#e8e8e8">,</tspan></text>
+
+  <text x="20" y="180" fill="#555555">05</text>
+  <text x="64" y="180"><tspan fill="#ffa657">            "title"</tspan><tspan fill="#e8e8e8">   : </tspan><tspan fill="#ffa657">"Full-Stack Dev | AI/ML Engineer | Cybersecurity"</tspan><tspan fill="#e8e8e8">,</tspan></text>
+
+  <text x="20" y="206" fill="#555555">06</text>
+  <text x="64" y="206"><tspan fill="#ffa657">            "location"</tspan><tspan fill="#e8e8e8">: </tspan><tspan fill="#ffa657">"Yaoundé, Cameroon"</tspan><tspan fill="#e8e8e8">,</tspan></text>
+
+  <text x="20" y="232" fill="#555555">07</text>
+  <text x="64" y="232"><tspan fill="#ffa657">            "mission"</tspan><tspan fill="#e8e8e8"> : </tspan><tspan fill="#ffa657">"Building intelligent, secure &amp; impactful solutions"</tspan></text>
+
+  <text x="20" y="258" fill="#555555">08</text>
+  <text x="64" y="258" fill="#e8e8e8">        }</text>
+
+  <text x="20" y="284" fill="#555555">09</text>
+
+  <text x="20" y="310" fill="#555555">10</text>
+  <text x="64" y="310"><tspan fill="#e8e8e8">    </tspan><tspan fill="#cf8fff">def </tspan><tspan fill="#5ac8ff">code_philosophy</tspan><tspan fill="#e8e8e8">(</tspan><tspan fill="#ff6b6b">self</tspan><tspan fill="#e8e8e8">) </tspan><tspan fill="#cf8fff">-&gt;</tspan><tspan fill="#5ac8ff"> str</tspan><tspan fill="#e8e8e8">:</tspan></text>
+
+  <text x="20" y="336" fill="#555555">11</text>
+  <text x="64" y="336"><tspan fill="#e8e8e8">        </tspan><tspan fill="#cf8fff">return </tspan><tspan fill="#ffa657">"""</tspan></text>
+
+  <text x="20" y="362" fill="#555555">12</text>
+  <text x="64" y="362"><tspan fill="#ffa657">        </tspan><tspan fill="#cf8fff">def </tspan><tspan fill="#5ac8ff">life_mission</tspan><tspan fill="#ffa657">():</tspan></text>
+
+  <text x="20" y="388" fill="#555555">13</text>
+  <text x="64" y="388"><tspan fill="#ffa657">            </tspan><tspan fill="#cf8fff">while </tspan><tspan fill="#e8c57d">True</tspan><tspan fill="#ffa657">:</tspan></text>
+
+  <text x="20" y="414" fill="#555555">14</text>
+  <text x="64" y="414"><tspan fill="#ffa657">                </tspan><tspan fill="#5ac8ff">learn_new_tech</tspan><tspan fill="#ffa657">()</tspan></text>
+
+  <text x="20" y="440" fill="#555555">15</text>
+  <text x="64" y="440"><tspan fill="#ffa657">                </tspan><tspan fill="#5ac8ff">build_scalable_systems</tspan><tspan fill="#ffa657">()</tspan></text>
+
+  <text x="20" y="466" fill="#555555">16</text>
+  <text x="64" y="466"><tspan fill="#ffa657">                </tspan><tspan fill="#5ac8ff">secure_the_digital_world</tspan><tspan fill="#ffa657">()</tspan></text>
+
+  <text x="20" y="492" fill="#555555">17</text>
+  <text x="64" y="492"><tspan fill="#ffa657">                </tspan><tspan fill="#cf8fff">if </tspan><tspan fill="#5ac8ff">inspiration_strikes</tspan><tspan fill="#ffa657">:</tspan></text>
+
+  <text x="20" y="518" fill="#555555">18</text>
+  <text x="64" y="518"><tspan fill="#ffa657">                    </tspan><tspan fill="#5ac8ff">innovate</tspan><tspan fill="#ffa657">()</tspan></text>
+
+  <text x="20" y="544" fill="#555555">19</text>
+  <text x="64" y="544"><tspan fill="#ffa657">                    </tspan><tspan fill="#5ac8ff">collaborate</tspan><tspan fill="#ffa657">()</tspan></text>
+
+  <text x="20" y="570" fill="#555555">20</text>
+  <text x="64" y="570"><tspan fill="#ffa657">                </tspan><tspan fill="#5ac8ff">dream_big</tspan><tspan fill="#ffa657">()</tspan></text>
+
+  <text x="20" y="596" fill="#555555">21</text>
+  <text x="64" y="596" fill="#ffa657">        """</text>
+
+  <text x="20" y="622" fill="#555555">22</text>
+
+  <text x="20" y="648" fill="#555555">23</text>
+  <text x="64" y="648"><tspan fill="#e8e8e8">    </tspan><tspan fill="#cf8fff">def </tspan><tspan fill="#5ac8ff">get_skills</tspan><tspan fill="#e8e8e8">(</tspan><tspan fill="#ff6b6b">self</tspan><tspan fill="#e8e8e8">) </tspan><tspan fill="#cf8fff">-&gt;</tspan><tspan fill="#5ac8ff"> list</tspan><tspan fill="#e8e8e8">:</tspan></text>
+
+  <text x="20" y="674" fill="#555555">24</text>
+  <text x="64" y="674"><tspan fill="#e8e8e8">        </tspan><tspan fill="#cf8fff">return </tspan><tspan fill="#e8e8e8">[</tspan></text>
+
+  <text x="20" y="700" fill="#555555">25</text>
+  <text x="64" y="700"><tspan fill="#ffa657">            "Full-Stack Development (React, Spring Boot, Django)"</tspan><tspan fill="#e8e8e8">,</tspan></text>
+
+  <text x="20" y="726" fill="#555555">26</text>
+  <text x="64" y="726"><tspan fill="#ffa657">            "Machine Learning (TensorFlow, PyTorch)"</tspan><tspan fill="#e8e8e8">,</tspan></text>
+
+  <text x="20" y="752" fill="#555555">27</text>
+  <text x="64" y="752"><tspan fill="#ffa657">            "Cybersecurity (Vulnerability Assessment, Secure Coding)"</tspan><tspan fill="#e8e8e8">,</tspan></text>
+
+  <text x="20" y="778" fill="#555555">28</text>
+  <text x="64" y="778"><tspan fill="#ffa657">            "Mobile Development (React Native)"</tspan><tspan fill="#e8e8e8">,</tspan></text>
+
+  <text x="20" y="804" fill="#555555">29</text>
+  <text x="64" y="804"><tspan fill="#ffa657">            "Data Analytics &amp; Visualization"</tspan><tspan fill="#e8e8e8">,</tspan></text>
+
+  <text x="20" y="830" fill="#555555">30</text>
+  <text x="64" y="830"><tspan fill="#ffa657">            "AI for a better world"</tspan></text>
+
+  <text x="20" y="856" fill="#555555">31</text>
+  <text x="64" y="856" fill="#e8e8e8">        ]</text>
+
+  <text x="20" y="882" fill="#555555">32</text>
+
+  <text x="20" y="908" fill="#555555">33</text>
+  <text x="64" y="908"><tspan fill="#e8e8e8">    </tspan><tspan fill="#cf8fff">def </tspan><tspan fill="#5ac8ff">contact_me</tspan><tspan fill="#e8e8e8">(</tspan><tspan fill="#ff6b6b">self</tspan><tspan fill="#e8e8e8">):</tspan></text>
+
+  <text x="20" y="934" fill="#555555">34</text>
+  <text x="64" y="934"><tspan fill="#e8e8e8">        </tspan><tspan fill="#cf8fff">return </tspan><tspan fill="#e8e8e8">{</tspan></text>
+
+  <text x="20" y="960" fill="#555555">35</text>
+  <text x="64" y="960"><tspan fill="#ffa657">            "email"</tspan><tspan fill="#e8e8e8">    : </tspan><tspan fill="#ffa657">"azangueleonel9@gmail.com"</tspan><tspan fill="#e8e8e8">,</tspan></text>
+
+  <text x="20" y="986" fill="#555555">36</text>
+  <text x="64" y="986"><tspan fill="#ffa657">            "linkedin"</tspan><tspan fill="#e8e8e8"> : </tspan><tspan fill="#ffa657">"leonel-azangue"</tspan><tspan fill="#e8e8e8">,</tspan></text>
+
+  <text x="20" y="1012" fill="#555555">37</text>
+  <text x="64" y="1012"><tspan fill="#ffa657">            "github"</tspan><tspan fill="#e8e8e8">   : </tspan><tspan fill="#ffa657">"Delmat237"</tspan><tspan fill="#e8e8e8">,</tspan></text>
+
+  <text x="20" y="1038" fill="#555555">38</text>
+  <text x="64" y="1038"><tspan fill="#ffa657">            "whatsapp"</tspan><tspan fill="#e8e8e8"> : </tspan><tspan fill="#ffa657">"+237657450314"</tspan></text>
+
+  <text x="20" y="1064" fill="#555555">39</text>
+  <text x="64" y="1064" fill="#e8e8e8">        }</text>
+
+  <!-- blinking cursor -->
+  <rect x="64" y="1072" width="8" height="14" fill="#5ac8ff" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0;0.9" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
