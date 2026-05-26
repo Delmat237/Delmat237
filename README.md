@@ -39,47 +39,9 @@ Passionné par la création de solutions technologiques innovantes, je combine d
 
 <br clear="right"/>
 
-<table>
-<tr>
-<td width="58%">
-
-```python
-class TechInnovator:
-    def __init__(self):
-        self.identity = {
-            "name"    : "Leonel Azangue",
-            "role"    : "Full-Stack · AI/ML · Cybersecurity",
-            "location": "🌍 Yaoundé, Cameroon",
-            "mission" : "Building intelligent, secure & impactful solutions"
-        }
-
-    def get_skills(self) -> list:
-        return [
-            "🖥️  Full-Stack  (React, Spring Boot, Django)",
-            "🤖  Machine Learning  (TensorFlow, PyTorch)",
-            "🔒  Cybersecurity  (Vuln Assessment, Secure Coding)",
-            "📱  Mobile Dev  (React Native)",
-            "📊  Data Analytics & Visualization",
-            "💬  NLP / Digital Avatars  (LLM + Vision)"
-        ]
-
-    def contact(self):
-        return {
-            "email"    : "azangueleonel9@gmail.com",
-            "linkedin" : "leonel-azangue",
-            "github"   : "Delmat237",
-            "whatsapp" : "+237657450314"
-        }
-```
-
-</td>
-<td align="center">
-<picture>
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px"/>
-</picture>
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="./terminal-card.svg" alt="Leonel Azangue — Terminal Card" width="720"/>
+</div>
 
 ---
 
@@ -230,7 +192,7 @@ class TechInnovator:
   <a href="https://github.com/Delmat237">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://wa.me/+237694773472">
+  <a href="https://wa.me/+237694773772">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/leonel-azangue">
