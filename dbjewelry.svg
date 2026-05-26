@@ -1,0 +1,15 @@
+<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+  <rect width="80" height="80" rx="16" fill="#0d1117"/>
+  <rect x="4" y="4" width="72" height="72" rx="13" fill="#161b22" stroke="#e8c57d" stroke-width="1.2"/>
+  <!-- Diamond shape -->
+  <polygon points="40,14 60,30 40,66 20,30" fill="none" stroke="#e8c57d" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="40,14 60,30 40,36 20,30" fill="#e8c57d" opacity="0.2"/>
+  <line x1="20" y1="30" x2="60" y2="30" stroke="#e8c57d" stroke-width="1.5"/>
+  <line x1="40" y1="36" x2="20" y2="30" stroke="#e8c57d" stroke-width="1" opacity="0.6"/>
+  <line x1="40" y1="36" x2="60" y2="30" stroke="#e8c57d" stroke-width="1" opacity="0.6"/>
+  <line x1="40" y1="36" x2="40" y2="66" stroke="#e8c57d" stroke-width="1" opacity="0.4"/>
+  <!-- sparkles -->
+  <circle cx="14" cy="14" r="2" fill="#e8c57d" opacity="0.8"/>
+  <circle cx="66" cy="18" r="1.5" fill="#e8c57d" opacity="0.6"/>
+  <circle cx="70" cy="60" r="2" fill="#e8c57d" opacity="0.8"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+  <rect width="80" height="80" rx="16" fill="#0d1117"/>
+  <rect x="4" y="4" width="72" height="72" rx="13" fill="#161b22" stroke="#7c6fff" stroke-width="1.2"/>
+  <!-- Face circle -->
+  <circle cx="40" cy="34" r="18" fill="none" stroke="#7c6fff" stroke-width="1.8"/>
+  <!-- Eyes -->
+  <circle cx="33" cy="30" r="3" fill="#7c6fff"/>
+  <circle cx="47" cy="30" r="3" fill="#7c6fff"/>
+  <!-- Smile -->
+  <path d="M32,38 Q40,46 48,38" stroke="#7c6fff" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+  <!-- Speech wave -->
+  <path d="M14,58 Q20,53 26,58 Q32,63 38,58 Q44,53 50,58 Q56,63 62,58" stroke="#5ac8ff" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- AI sparks -->
+  <circle cx="62" cy="20" r="2" fill="#ffa657"/>
+  <circle cx="68" cy="26" r="1.5" fill="#ffa657" opacity="0.7"/>
+  <circle cx="56" cy="14" r="1.5" fill="#ffa657" opacity="0.7"/>
+</svg>

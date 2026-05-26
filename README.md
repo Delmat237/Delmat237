@@ -49,38 +49,113 @@ Passionné par la création de solutions technologiques innovantes, je combine d
 
 ### ⭐ Projet Mis en Avant
 
-- **📊 DATAORG — Financial Health Prediction** : Implémentation d'un modèle de machine learning pour **prédire la santé financière des individus**, basé sur la compétition **data.org Financial Health Prediction Challenge** de Zindi. Feature engineering avancé, pipeline ML complet.  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=DATAORG_FINANCIAL-HEALTH-PREDICTION&theme=great-gatsby&border_color=00e5a0)](https://github.com/Delmat237/DATAORG_FINANCIAL-HEALTH-PREDICTION)
+<table>
+<tr>
+<td width="90" align="center">
+  <img src="./icons/financial.svg" width="72" height="72" alt="Financial icon"/>
+</td>
+<td>
+
+**DATAORG — Financial Health Prediction**  
+Implémentation d'un modèle de machine learning pour **prédire la santé financière des individus**, basé sur la compétition **data.org Financial Health Prediction Challenge** de Zindi. Feature engineering avancé, pipeline ML complet.  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=DATAORG_FINANCIAL-HEALTH-PREDICTION&theme=great-gatsby&border_color=00e5a0)](https://github.com/Delmat237/DATAORG_FINANCIAL-HEALTH-PREDICTION)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🧠 IA & Machine Learning
 
-- **🤖 ALD-Talker** : Système d'avatar conversationnel intelligent combinant **LLMs + modèles visuels** pour une nouvelle dimension d'interaction humain-IA. Fork enrichi de Linly-Talker.  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=ALD-Talker&theme=great-gatsby&border_color=7c6fff)](https://github.com/Delmat237/ALD-Talker)
+<table>
+<tr>
+<td width="90" align="center">
+  <img src="./icons/ald-talker.svg" width="72" height="72" alt="ALD-Talker icon"/>
+</td>
+<td>
 
-- **🎓 EduSmart** : Plateforme d'e-learning alimentée par l'IA avec apprentissage adaptatif, support multilingue, et certifications blockchain.  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=EduSmart---AI-Powered-E-Learning-Platform&theme=great-gatsby&border_color=7c6fff)](https://github.com/Delmat237/EduSmart---AI-Powered-E-Learning-Platform)
+**ALD-Talker**  
+Système d'avatar conversationnel intelligent combinant **LLMs + modèles visuels** pour une nouvelle dimension d'interaction humain-IA. Fork enrichi de Linly-Talker.  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=ALD-Talker&theme=great-gatsby&border_color=7c6fff)](https://github.com/Delmat237/ALD-Talker)
+
+</td>
+</tr>
+<tr>
+<td width="90" align="center">
+  <img src="./icons/edusmart.svg" width="72" height="72" alt="EduSmart icon"/>
+</td>
+<td>
+
+**EduSmart**  
+Plateforme d'e-learning alimentée par l'IA avec apprentissage adaptatif, support multilingue, et certifications blockchain.  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=EduSmart---AI-Powered-E-Learning-Platform&theme=great-gatsby&border_color=7c6fff)](https://github.com/Delmat237/EduSmart---AI-Powered-E-Learning-Platform)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🌐 Web & Communauté
 
-- **🖱️ Cursor Cameroun** : Site officiel de la communauté Cursor au Cameroun — présence digitale de l'écosystème dev local autour de l'IA et du code assisté.  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=Cursor-Cameroun&theme=great-gatsby&border_color=ffa657)](https://github.com/Delmat237/Cursor-Cameroun)
+<table>
+<tr>
+<td width="90" align="center">
+  <img src="./icons/cursor-cameroun.svg" width="72" height="72" alt="Cursor Cameroun icon"/>
+</td>
+<td>
 
-- **💎 DB Jewelry** : Boutique en ligne élégante pour bijoux de luxe avec navigation par catégories, panier dynamique, et design responsive.  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=DB-Jewelry&theme=great-gatsby&border_color=ffa657)](https://github.com/Delmat237/DB-Jewelry)
+**Cursor Cameroun**  
+Site officiel de la communauté Cursor au Cameroun — présence digitale de l'écosystème dev local autour de l'IA et du code assisté.  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=Cursor-Cameroun&theme=great-gatsby&border_color=ffa657)](https://github.com/Delmat237/Cursor-Cameroun)
+
+</td>
+</tr>
+<tr>
+<td width="90" align="center">
+  <img src="./icons/dbjewelry.svg" width="72" height="72" alt="DB Jewelry icon"/>
+</td>
+<td>
+
+**DB Jewelry**  
+Boutique en ligne élégante pour bijoux de luxe avec navigation par catégories, panier dynamique, et design responsive.  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=DB-Jewelry&theme=great-gatsby&border_color=ffa657)](https://github.com/Delmat237/DB-Jewelry)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🔒 Sécurité & Réseau
 
-- **💬 CHAT-OFFLINE (CIRR)** : Application de messagerie **sécurisée Offline-First** pour communications au sein d'un Réseau Local (LAN) sans dépendance à Internet. Pensé pour les zones à faible connectivité.  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=CHAT-OFFLINE&theme=great-gatsby&border_color=ff6b6b)](https://github.com/Delmat237/CHAT-OFFLINE)
+<table>
+<tr>
+<td width="90" align="center">
+  <img src="./icons/chat-offline.svg" width="72" height="72" alt="CHAT-OFFLINE icon"/>
+</td>
+<td>
 
-- **🔍 VulnScan Pro** : Outil de sécurité automatisé pour l'évaluation des vulnérabilités avec intégration CVE et rapports conformes.  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=VulnScan-Pro---Vulnerability-Assessment-Platform&theme=great-gatsby&border_color=ff6b6b)](https://github.com/Delmat237/VulnScan-Pro---Vulnerability-Assessment-Platform)
+**CHAT-OFFLINE (CIRR)**  
+Application de messagerie **sécurisée Offline-First** pour communications au sein d'un Réseau Local (LAN) sans dépendance à Internet. Pensé pour les zones à faible connectivité.  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=CHAT-OFFLINE&theme=great-gatsby&border_color=ff6b6b)](https://github.com/Delmat237/CHAT-OFFLINE)
+
+</td>
+</tr>
+<tr>
+<td width="90" align="center">
+  <img src="./icons/vulnscan.svg" width="72" height="72" alt="VulnScan icon"/>
+</td>
+<td>
+
+**VulnScan Pro**  
+Outil de sécurité automatisé pour l'évaluation des vulnérabilités avec intégration CVE et rapports conformes.  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Delmat237&repo=VulnScan-Pro---Vulnerability-Assessment-Platform&theme=great-gatsby&border_color=ff6b6b)](https://github.com/Delmat237/VulnScan-Pro---Vulnerability-Assessment-Platform)
+
+</td>
+</tr>
+</table>
 
 ---
 
