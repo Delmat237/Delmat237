@@ -31,13 +31,13 @@
   <text x="64" y="154"><tspan fill="#ffa657">            "name"</tspan><tspan fill="#e8e8e8">    : </tspan><tspan fill="#ffa657">"Leonel Azangue"</tspan><tspan fill="#e8e8e8">,</tspan></text>
 
   <text x="20" y="180" fill="#555555">05</text>
-  <text x="64" y="180"><tspan fill="#ffa657">            "title"</tspan><tspan fill="#e8e8e8">   : </tspan><tspan fill="#ffa657">"Full-Stack Dev | AI/ML Engineer | Cybersecurity"</tspan><tspan fill="#e8e8e8">,</tspan></text>
+  <text x="64" y="180"><tspan fill="#ffa657">            "title"</tspan><tspan fill="#e8e8e8">   : </tspan><tspan fill="#ffa657">"AI Engineer | Computer Vision | Multi-Agent Systems | MLOps"</tspan><tspan fill="#e8e8e8">,</tspan></text>
 
   <text x="20" y="206" fill="#555555">06</text>
-  <text x="64" y="206"><tspan fill="#ffa657">            "location"</tspan><tspan fill="#e8e8e8">: </tspan><tspan fill="#ffa657">"Yaoundé, Cameroon"</tspan><tspan fill="#e8e8e8">,</tspan></text>
+  <text x="64" y="206"><tspan fill="#ffa657">            "location"</tspan><tspan fill="#e8e8e8">: </tspan><tspan fill="#ffa657">"Palaiseau, France (ENSTA Paris × ENSPY)"</tspan><tspan fill="#e8e8e8">,</tspan></text>
 
   <text x="20" y="232" fill="#555555">07</text>
-  <text x="64" y="232"><tspan fill="#ffa657">            "mission"</tspan><tspan fill="#e8e8e8"> : </tspan><tspan fill="#ffa657">"Building intelligent, secure &amp; impactful solutions"</tspan></text>
+  <text x="64" y="232"><tspan fill="#ffa657">            "mission"</tspan><tspan fill="#e8e8e8"> : </tspan><tspan fill="#ffa657">"Building applied AI systems, from research to production"</tspan></text>
 
   <text x="20" y="258" fill="#555555">08</text>
   <text x="64" y="258" fill="#e8e8e8">        }</text>
@@ -63,7 +63,7 @@
   <text x="64" y="440"><tspan fill="#ffa657">                </tspan><tspan fill="#5ac8ff">build_scalable_systems</tspan><tspan fill="#ffa657">()</tspan></text>
 
   <text x="20" y="466" fill="#555555">16</text>
-  <text x="64" y="466"><tspan fill="#ffa657">                </tspan><tspan fill="#5ac8ff">secure_the_digital_world</tspan><tspan fill="#ffa657">()</tspan></text>
+  <text x="64" y="466"><tspan fill="#ffa657">                </tspan><tspan fill="#5ac8ff">ship_to_production</tspan><tspan fill="#ffa657">()</tspan></text>
 
   <text x="20" y="492" fill="#555555">17</text>
   <text x="64" y="492"><tspan fill="#ffa657">                </tspan><tspan fill="#cf8fff">if </tspan><tspan fill="#5ac8ff">inspiration_strikes</tspan><tspan fill="#ffa657">:</tspan></text>
@@ -89,16 +89,16 @@
   <text x="64" y="674"><tspan fill="#e8e8e8">        </tspan><tspan fill="#cf8fff">return </tspan><tspan fill="#e8e8e8">[</tspan></text>
 
   <text x="20" y="700" fill="#555555">25</text>
-  <text x="64" y="700"><tspan fill="#ffa657">            "Full-Stack Development (React, Spring Boot, Django)"</tspan><tspan fill="#e8e8e8">,</tspan></text>
+  <text x="64" y="700"><tspan fill="#ffa657">            "LLM, RAG &amp; Agents (FastAPI, Ollama, OpenRouter)"</tspan><tspan fill="#e8e8e8">,</tspan></text>
 
   <text x="20" y="726" fill="#555555">26</text>
-  <text x="64" y="726"><tspan fill="#ffa657">            "Machine Learning (TensorFlow, PyTorch)"</tspan><tspan fill="#e8e8e8">,</tspan></text>
+  <text x="64" y="726"><tspan fill="#ffa657">            "Machine Learning (PyTorch, TensorFlow, scikit-learn)"</tspan><tspan fill="#e8e8e8">,</tspan></text>
 
   <text x="20" y="752" fill="#555555">27</text>
-  <text x="64" y="752"><tspan fill="#ffa657">            "Cybersecurity (Vulnerability Assessment, Secure Coding)"</tspan><tspan fill="#e8e8e8">,</tspan></text>
+  <text x="64" y="752"><tspan fill="#ffa657">            "MLOps &amp; Deployment (Docker, CI/CD)"</tspan><tspan fill="#e8e8e8">,</tspan></text>
 
   <text x="20" y="778" fill="#555555">28</text>
-  <text x="64" y="778"><tspan fill="#ffa657">            "Mobile Development (React Native)"</tspan><tspan fill="#e8e8e8">,</tspan></text>
+  <text x="64" y="778"><tspan fill="#ffa657">            "Computer Vision (real-time sign language translation)"</tspan><tspan fill="#e8e8e8">,</tspan></text>
 
   <text x="20" y="804" fill="#555555">29</text>
   <text x="64" y="804"><tspan fill="#ffa657">            "Data Analytics &amp; Visualization"</tspan><tspan fill="#e8e8e8">,</tspan></text>
