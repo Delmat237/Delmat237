@@ -1,3 +1,19 @@
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Leonel%20Azangue&fontSize=60&fontAlignY=38&desc=IA%20%C2%B7%20Vision%20%C2%B7%20Syst%C3%A8mes%20multi-agents%20%C2%B7%20MLOps&descAlignY=58&descSize=18&animation=fadeIn&fontColor=ffffff)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00E5A0&center=true&vCenter=true&width=600&lines=%C3%89l%C3%A8ve-ing%C3%A9nieur+ENSTA+Paris+%C3%97+ENSPY;Construire+des+syst%C3%A8mes+d%27IA+appliqu%C3%A9s;En+recherche+d%27un+PRe+en+IA+appliqu%C3%A9e)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Delmat237/Delmat237/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Delmat237/Delmat237/output/github-snake.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/Delmat237/Delmat237/output/github-snake-dark.svg" width="100%"/>
+  </picture>
+</div>
+
 # Leonel Delmat Azangue
 
 **Élève-ingénieur · ENSTA Paris (Informatique) × ENSPY — double diplôme**
@@ -7,6 +23,10 @@ Intelligence artificielle · Vision par ordinateur · Systèmes multi-agents · 
 🌐 [Portfolio](https://azangue-leonel-portfolio.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/leonel-azangue) · ✉️ [azangueleonel9@gmail.com](mailto:azangueleonel9@gmail.com)
 
 ---
+
+<div align="center">
+  <img src="./terminal-card.svg" alt="Terminal card" width="720"/>
+</div>
 
 ## À propos
 
@@ -50,3 +70,9 @@ Autres projets (traduction de la langue des signes en temps réel, IA vocale hor
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+
+</div>
